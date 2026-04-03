@@ -52,6 +52,5 @@ public class MouseEventPerformed extends JFrame implements MouseListener
 	public void mouseExited(MouseEvent e) 
 	{
 		l1.setText("Mouse Exited");
-	}
-
+	}
 }
